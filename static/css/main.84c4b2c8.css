@@ -1693,11 +1693,10 @@ h1 {
 .h1,
 h1:after {
         visibility: visible;
-        position: absolute;
+        position: relative;
         top: 0;
-        left: 0;
+        left: -13%;
         content: "Revision Village";
-        margin: 50px;
 }
 
 @media(min-width:1200px) {
@@ -1709,16 +1708,14 @@ h1:after {
         position: relative;
     }
     .h1,
-h1:after {
+    h1:after {
         visibility: visible;
-        position: absolute;
+        position: relative;
         top: 0;
-        left: 0;
+        left: -13%;
         content: "Revision Village";
-        margin: 50px;
 }
 }
-
 
 .h2,
 h2 {
