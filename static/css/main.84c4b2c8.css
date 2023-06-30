@@ -1697,6 +1697,7 @@ h1:after {
         top: 0;
         left: 0;
         content: "Revision Village";
+        margin: 50px;
 }
 
 @media(min-width:1200px) {
@@ -1714,6 +1715,7 @@ h1:after {
         top: 0;
         left: 0;
         content: "Revision Village";
+        margin: 50px;
 }
 }
 
